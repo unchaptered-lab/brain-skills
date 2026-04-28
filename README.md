@@ -42,7 +42,7 @@ A curated list of practical Codex skills for automating workflows across the Cod
 
 ```bash
 git clone https://github.com/ComposioHQ/awesome-codex-skills.git
-cd awesome-codex-skills/awesome-codex-skills
+cd awesome-codex-skills
 # Install one or more skills into $CODEX_HOME/skills (defaults to ~/.codex/skills)
 python skill-installer/scripts/install-skill-from-github.py --repo ComposioHQ/awesome-codex-skills --path meeting-notes-and-actions
 ```
