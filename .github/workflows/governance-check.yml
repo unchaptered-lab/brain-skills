@@ -7,7 +7,7 @@ on:
 
 jobs:
   governance:
-    runs-on: ubuntu-latest
+    runs-on: unchaptered-lab-runner
     env:
       REPOSITORY_PATH: "brain-skills"
     steps:
